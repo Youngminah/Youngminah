@@ -1,7 +1,14 @@
-### Hi there 👋
+### Hi, there! 👋🏻
 
-<!--
-**Youngminah/Youngminah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungminah&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
+
+- 🤔 MVVM 패턴과 좀 더 깔끔한 코드를 위해 리팩토링은 요즘 최대 관심사 ㅎ ! <br>
+
+- 🌱 SwiftUI, Swift, Xcode, Design pattern, WWDC, Firebase 공부중
+
+<!-- **Youngminah/Youngminah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youngminah&show_icons=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youngminah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
