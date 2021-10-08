@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungminah&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 
-- 🤔 MVVM 패턴과 좀 더 깔끔한 코드를 위해 리팩토링은 요즘 최대 관심사 ㅎ ! <br>
+- Rxswift, MVVM, Refactoring 중이예요! <br>
 
 - 🌱 SwiftUI, Swift, Xcode, Design pattern, WWDC, Firebase 공부중
 
