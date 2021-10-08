@@ -6,8 +6,6 @@
 
 - Rxswift, MVVM, Refactoring 중이예요! <br>
 
-- 🌱 SwiftUI, Swift, Xcode, Design pattern, WWDC, Firebase 공부중
-
 <!-- **Youngminah/Youngminah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
